@@ -9,6 +9,7 @@ Simple copy of the classic game Snake, written in Rust using SDL2.
 - Don't run into the walls or yourself.
 - Press Space or Escape to pause the game.
 - Press R to restart the game.
+- Input is a bit buggy so be careful with your APM otherwise you might crash into yourself.
 
 ## How to run
 
